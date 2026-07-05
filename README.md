@@ -128,30 +128,6 @@ http://localhost:8501
    * Rekomendasi perawatan
 
 ---
-📸 Tampilan Aplikasi
-
-Tambahkan screenshot aplikasi pada folder repository, misalnya:
-
-```
-images/
-├── landing-page.png
-├── camera-page.png
-└── result-page.png
-```
-
-Kemudian tampilkan pada README:
-
-```markdown
-Halaman Analisis
-
-![Analisis](images/halaman%20analisis.png)
-
-Hasil Deteksi
-
-![Hasil](images/hasil%20analisis.png)
-```
-
----
 
 📦 Dependencies
 
